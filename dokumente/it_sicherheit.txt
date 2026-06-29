@@ -1,0 +1,13 @@
+IT-Sicherheit und Datenschutz bei der Muster GmbH
+
+Passwortrichtlinie
+Passwörter müssen mindestens zwölf Zeichen lang sein und Groß- und Kleinbuchstaben, Zahlen sowie Sonderzeichen enthalten. Sie müssen alle 90 Tage geändert werden. Die Mehrfaktor-Authentifizierung ist für alle Systeme verpflichtend.
+
+Umgang mit Daten
+Personenbezogene Daten dürfen ausschließlich im Rahmen der DSGVO verarbeitet werden. Vertrauliche Dokumente sind verschlüsselt zu speichern und dürfen nicht auf privaten Geräten abgelegt werden.
+
+Phishing und verdächtige E-Mails
+Verdächtige E-Mails dürfen nicht geöffnet werden und sind umgehend an die IT-Abteilung zu melden. Klicken Sie niemals auf Links oder Anhänge aus unbekannten Quellen.
+
+Geräte und Software
+Auf Firmengeräten darf nur freigegebene Software installiert werden. Die Nutzung privater USB-Sticks ist aus Sicherheitsgründen untersagt. Bei Verlust eines Firmengeräts ist sofort die IT-Abteilung zu informieren.
